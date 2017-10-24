@@ -1,0 +1,28 @@
+{
+    "notes": [
+        {
+            "colour": "#FFFFFF",
+            "body": "This is a note.\n- first line\n- yada yada",
+            "title": "Note One",
+            "fontSize": 18,
+            "hideBody": false,
+            "favoured": false
+        },
+        {
+            "colour": "#FFFFFF",
+            "body": "UTF8 Test: äöü",
+            "title": "Second Note",
+            "fontSize": 18,
+            "hideBody": true,
+            "favoured": true
+        },
+        {
+            "colour": "#FFFFFF",
+            "body": "1. Ordered\n2. List",
+            "title": "Ordered List Text",
+            "fontSize": 18,
+            "hideBody": true,
+            "favoured": true
+        }
+    ]
+}
