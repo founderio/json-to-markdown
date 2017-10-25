@@ -1,6 +1,6 @@
 # Json to Markdown converter
 
-This tool converts json backup files of a specific android notes application to rudimentary markdown. See example.json for an example input.
+This tool converts json backup files of the Android notes application [Swiftnotes](https://github.com/adrianchifor/Swiftnotes) to rudimentary markdown. See example.json for an example input.
 Still in beta phase, written for personal usage.
 
 ## Building from source
